@@ -1,0 +1,11 @@
+.editBody{
+    height: 370px;
+    width: 500px;
+    
+    border: 1px solid rgba(0,255,0,0.3);
+    border: 1px solid black;
+}
+.alignment{
+    margin-left: 20px;
+    margin-right: 20px;
+}
